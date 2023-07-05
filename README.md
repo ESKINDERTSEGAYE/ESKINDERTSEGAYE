@@ -1,4 +1,4 @@
-### Hi there 👋
+### <div align="center"> Hi there 👋 </div>
 
 ### <div align="center">I'm Eskinder an AI engineer with expertise in developing and deploying artificial intelligence systems 🚀</div>  
   
